@@ -1,0 +1,94 @@
+.mynav {
+  background-color: transparent !important;
+  border-color:transparent !important; 
+  margin-top: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+a.nav-logo img {
+  width: 70%;
+}
+.nav-text>.active>a {
+  color: #d74314 !important;
+  background-color:transparent !important;
+}
+ul.nav-text li{
+  font-size: 16px;
+  font-weight: 600;
+}
+ul.nav-text li a {
+  color: #4d504f !important;
+  margin-top: 10px;
+}
+ul.nav-text li a button {
+  background-color: transparent;
+  color: black !important;
+  padding: 5px 8px 5px 8px;
+  border: none;
+  margin-top: -10px;
+}
+ul.nav-text li a:hover {
+  color: #d74314 !important;
+  transition: 1s ease all;
+}
+.navbar-toggle {
+  background-color: #d74314;
+  color: white !important;
+  border: transparent;
+}
+.Nav-bar {
+  background-color: #f5f5f7;
+  opacity: 0.9;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff !important;
+}
+.navbar-collapse {
+     padding-right: 0px;
+  }
+  /*  Symptom slider */
+.setting img{
+  width:100%;
+  padding-left: 12px;
+}
+Slider.setting {
+  margin-top: 40px;
+  width: auto;
+}
+/*  Symptom slider end */
+
+/*end*/
+
+/* slider css */
+.slider-item img {
+  width: 100%;
+}
+.slick-slider {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+/* end */
+.header-section-left p {
+  font-size: 28px !important;
+}
+.header {
+  background-image: url(components/images/slider.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-color: #d7e1ee; */
+}
+.header-section-left {
+  margin-top: 15%;
+  margin-bottom: 20%;
+}
+.header-section-left p {
+  color: #d74314;
+  font-size: 18px;
+}
+.header-sec-right-img img {
+  width: 70%;
+  padding-top: 10px;
+}
+.header-sec-right-img {
+  margin-top: 15%;
+}
